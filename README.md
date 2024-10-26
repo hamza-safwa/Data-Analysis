@@ -1,5 +1,5 @@
 # Data Analysis
-The repository contains Data Analytics projects on which I have worked and am working. I hvae done various term and portfolio projects consisting of datasets from different sectors i.e Business & Retail, Finance, Healthcare, Power & Energy etc.
+The repository contains Data tics projects on which I have worked and am working. I hvae done various term and portfolio projects consisting of datasets from different sectors i.e Business & Retail, Finance, Healthcare, Power & Energy etc.
 
 **1. Data analytics at B2B Service Provider**
 
